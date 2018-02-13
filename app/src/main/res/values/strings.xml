@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="last_image">Last Image</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="shutter">Shutter</string>
+    <string name="automatic">Automatic</string>
+    <string name="zoom">zoom</string>
+    <string name="aelock">aeLock</string>
+    <string name="shutter_speed">shutter speed</string>
+    <string name="iso">iso</string>
+    <string name="exposure">exposure</string>
+    <string name="manual_focus">manual focus</string>
+    <string name="whiteBalance">white balance</string>
+</resources>

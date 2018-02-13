@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="CircleControl">
+        <attr name="color" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="min" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="value" format="integer" />
+    </declare-styleable>
+</resources>
